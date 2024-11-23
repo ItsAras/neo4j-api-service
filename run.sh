@@ -1,1 +1,1 @@
-FLASK_APP=flaskr FLASK_RUN_PORT=8080 FLASK_ENV=development flask run
+flask --app flaskr run --port=8080 --debug
